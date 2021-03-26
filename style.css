@@ -208,11 +208,12 @@ button {
 
 .vignetteprincipal h2 {
   padding-left: 10px;
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 .vignetteprincipal span {
   margin-left: 10px;
+  font-size: 0.8em;
 }
 
 .hebergementsprincipal {
