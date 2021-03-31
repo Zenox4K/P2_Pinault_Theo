@@ -237,6 +237,10 @@ button {
   column-gap: 2rem;
 }
 
+main h3 {
+    margin: 0;
+}
+
 #hebergements_principal {
   display: inline-flex;
   flex-wrap: wrap;
